@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-13T05:06:19Z" name="Suite" finished-at="2018-12-13T05:06:45Z" duration-ms="25712">
+    <groups>
+    </groups>
+    <test started-at="2018-12-13T05:06:19Z" name="Test" finished-at="2018-12-13T05:06:45Z" duration-ms="25712">
+      <class name="com.amazon.test.UserStory1">
+        <test-method is-config="true" signature="capabilities()[pri:0, instance:com.amazon.test.UserStory1@20f5239f]" started-at="2018-12-13T05:06:09Z" name="capabilities" finished-at="2018-12-13T05:06:19Z" duration-ms="10372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capabilities -->
+        <test-method is-config="true" signature="startTest()[pri:0, instance:com.amazon.test.UserStory1@20f5239f]" started-at="2018-12-13T05:06:19Z" name="startTest" finished-at="2018-12-13T05:06:19Z" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="ShopByCategory_Test()[pri:0, instance:com.amazon.test.UserStory1@20f5239f]" started-at="2018-12-13T05:06:19Z" name="ShopByCategory_Test" finished-at="2018-12-13T05:06:44Z" duration-ms="25267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShopByCategory_Test -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.amazon.test.UserStory1@20f5239f]" started-at="2018-12-13T05:06:44Z" name="endTest" finished-at="2018-12-13T05:06:45Z" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.amazon.test.UserStory1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

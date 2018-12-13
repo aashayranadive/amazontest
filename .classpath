@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/commons-lang3-3.8.1/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/commons-lang3-3.8.1/commons-lang3-3.8.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/commons-lang3-3.8.1/commons-lang3-3.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/commons-lang3-3.8.1/commons-lang3-3.8.1-tests.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/commons-lang3-3.8.1/commons-lang3-3.8.1-test-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/asm-6.0.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/cglib-3.2.9.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/java-client-6.1.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Aashay/Automation/jars/extentreports-java-2.41.2/extentreports-2.41.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
